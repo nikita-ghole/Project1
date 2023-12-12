@@ -1,0 +1,8 @@
+1:Why used glob?
+
+- glob is used to return all file paths that match a specific pattern.
+- agar .xlsx naam ke saare files find karni hai toh yahi use hoga
+
+2: .strsplit() & .split()
+The split() method splits a string at the specified separator and returns a list of substrings.
+
